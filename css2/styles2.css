@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+}
+
+.column {
+  float: left;
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 50px;
+  width: 300px;
+}
+
+h1 {
+  margin-top: 50px;
+  color: gray;
+}
+
+h2.intro {
+  color: gray;
+}
